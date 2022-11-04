@@ -4,9 +4,9 @@
 
 
 - 🔭 Atualmente cursando Tecnologia da Informação(bacharelado). 
-- 🌱 Participando do Programa Desenvolve 2022 da Boticário (fullStack).
+- 🌱 Buscando sempre conhecimentos.
 - 👨‍💻 Minha meta no momento é adquirir conhecimento em React Js, para poder aplicar em projetos futuros.
-- 😍 Gosto muito de Front-end e Back-end, por isso minha escolha da trilha FullStack. 
+- 😍 Apaixonado por tecnologia e sempre procurando a evolução. 
 
 <div align="center">
   <a href="https://github.com/LucasMatheus12">
