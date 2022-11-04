@@ -4,7 +4,7 @@
 
 [![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasmatheus.vercel.app/) 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:matheusalexandre012@gmail.com") 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusalexandre012@gmail.com) 
 
 
 - 🔭 Atualmente cursando Tecnologia da Informação(bacharelado). 
