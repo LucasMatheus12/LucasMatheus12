@@ -1,6 +1,8 @@
 ### Olá, sou Lucas Matheus👋
 
-**LucasMatheus12/LucasMatheus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinKeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-ba754b226/) 
+
+[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://lucasmatheus.vercel.app/ ) 
 
 
 - 🔭 Atualmente cursando Tecnologia da Informação(bacharelado). 
