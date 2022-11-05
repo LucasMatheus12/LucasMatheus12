@@ -20,9 +20,9 @@
 
 <div align="center">
   <a href="https://github.com/LucasMatheus12">
-  <img height="197em" src="https://github-readme-stats.vercel.app/api?username=LucasMatheus12&show_icons=true&include_all_commits=true&count_private=false&bg_color=0E091B&title_color=7a007a&text_color=ffffff&icon_color=ffa500&border_radius=5&border_color=7a007a&count_private=true"/>
+  <img height="180em width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasMatheus12&show_icons=true&include_all_commits=true&count_private=false&bg_color=0E091B&title_color=7a007a&text_color=ffffff&icon_color=ffa500&border_radius=5&border_color=7a007a&count_private=true"/>
     
-   <img heigth="180em" width="48.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatheus12&layout=compact&langs_count=7&bg_color=0E091B&title_color=7a007a&text_color=ffffff&icon_color=ffa500&border_radius=5&border_color=7a007a&count_private=true"/>
+   <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatheus12&layout=compact&langs_count=7&bg_color=0E091B&title_color=7a007a&text_color=ffffff&icon_color=ffa500&border_radius=5&border_color=7a007a&count_private=true"/>
 </div>
   
   <h2 align="center">Tecnologias que uso no meu dia!</h2>
