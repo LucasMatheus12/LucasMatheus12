@@ -1,12 +1,5 @@
 ### Olá, sou Lucas Matheus👋
 
-- 🔭 Atualmente cursando Tecnologia da Informação(bacharelado) na Universidade Federal Rural do Semi-Árido. 
-- 🌱 Buscando sempre conhecimentos.
-- 👨‍💻 Minha meta no momento é adquirir conhecimento em React Js, para poder aplicar em projetos futuros.
-- 😍 Apaixonado por tecnologia e sempre procurando a evolução. 
-
-
-
 <div  align="center">
   </br>
 
