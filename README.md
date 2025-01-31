@@ -1,4 +1,4 @@
-### Olá, sou Lucas Matheus👋
+### Olá, sou Lucas Matheus
 
 <div  align="center">
   </br>
